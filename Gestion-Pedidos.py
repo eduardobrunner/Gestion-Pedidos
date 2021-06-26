@@ -1,18 +1,4 @@
 
-#class Alumno:
-
-#    def __init__(self, nombre, edad):
-#        self.nombre = nombre
-#        self.edad = edad
-
-#    def saludar(self):
-#        """Imprime un saludo en pantalla."""
-#        print(f"¡Hola, {self.nombre}!")
-#        print("Edad: ",self.edad)
-#
-#alumno = Alumno("Pablo")
-#alumno.saludar()
-
 #======================PRUEBA DE CLASS=====================
 class Cliente:
     def __init__(self,ID,cuil,nombre,apellidos,telefono,email):
